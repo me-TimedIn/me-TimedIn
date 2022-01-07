@@ -3,8 +3,8 @@ Hey, ich bin TimedIn, bin 16 Jahre alt.
 Ich bin interessiert in Programmierung, Elektronic und IT-Administration.
 Ich lerne zurzeit erweitertertes PHP, JAVA, NodeJS und jah ... Schule halt.
 Meine Muttersprache ist Deutsch, ich spreche etwas Englisch.
-Ich bin erreichbar unter;
-timedin@gmx.de
+Emails an:
+info@timedin.de
 
 
 ENG:
@@ -13,8 +13,8 @@ I'm interrested in programming, electronics and IT-administration.
 I'm currently learning more advanced PHP, JAVA, NodeJS and yeah... school stuff.
 My mother tongue is german, I speak a little bit of english. 
 
-You can reach me under:
-timedin@gmx.de
+Emails to:
+info@timedin.de
 
 
 
