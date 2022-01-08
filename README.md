@@ -1,11 +1,16 @@
 DE:
 Hey, ich bin TimedIn, bin 16 Jahre alt.
-Ich bin interessiert in Programmierung, Elektronic und IT-Administration.
-Ich lerne zurzeit erweitertertes PHP, JAVA, NodeJS und jah ... Schule halt.
+Ich bin interessiert in Programmierung, Elektronik IT- und Netzwerk-Administration und generell Computern.
+
+Ich "lerne" PHP, JAVA, JavaScript, Shell/Bash und jah... Schule halt.
+
 Meine Muttersprache ist Deutsch, ich spreche etwas Englisch.
+
 Emails an:
 info@timedin.de
 
+Soziale Medien: 
+kommt auf die Plattform an, timedin.de oder timedin-de
 
 ENG:
 Hey, I'm TimedIn, I'm 16 Years old. 
@@ -18,7 +23,8 @@ info@timedin.de
 
 
 
-Social Media will come later, i'll have to reset my old profiles and adjust stuff...
+Social Media: 
+depends on Platform: timedin.de or timedin-de
 
 <!---
 me-TimedIn/me-TimedIn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
