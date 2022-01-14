@@ -12,6 +12,7 @@ info@timedin.de
 Soziale Medien: 
 kommt auf die Plattform an, timedin.de, timedin_de oder timedin-de
 
+!!All repositories are in dev, and probably contain bugs, security issues etc. so this is for demonstration purpuses only!
 ENG:
 Hey, I'm TimedIn, I'm 16 Years old. 
 I'm interrested in programming, electronics and IT-administration.
