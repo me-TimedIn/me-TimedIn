@@ -10,7 +10,7 @@ Emails an:
 info@timedin.de
 
 Soziale Medien: 
-kommt auf die Plattform an, timedin.de oder timedin-de
+kommt auf die Plattform an, timedin.de, timedin_de oder timedin-de
 
 ENG:
 Hey, I'm TimedIn, I'm 16 Years old. 
@@ -24,7 +24,7 @@ info@timedin.de
 
 
 Social Media: 
-depends on Platform: timedin.de or timedin-de
+depends on Platform: timedin.de, timedin_deor timedin-de
 
 <!---
 me-TimedIn/me-TimedIn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
