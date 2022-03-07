@@ -1,6 +1,6 @@
 DE:
 Hey, ich bin TimedIn, bin 16 Jahre alt.
-Ich bin interessiert in Programmierung, Elektronik IT- und Netzwerk-Administration und generell Computern.
+Ich bin interessiert in Programmierung, Elektronik, IT- und Netzwerk-Administration und generell Computern.
 
 Ich "lerne" PHP, JAVA, JavaScript, Shell/Bash und jah... Schule halt.
 
