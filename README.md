@@ -1,3 +1,10 @@
+Hey, thanks for coming by.
+I just publish some repositories of mine here.
+
+If you have any questions or found an error or bug in something please contact me at info@timedin.de.
+
+Thanks
+<!---
 DE:
 Hey, ich bin TimedIn, bin 16 Jahre alt.
 Ich bin interessiert in Programmierung, Elektronik, IT- und Netzwerk-Administration und generell Computern.
@@ -27,7 +34,7 @@ info@timedin.de
 Social Media: 
 depends on Platform: timedin.de, timedin_deor timedin-de
 
-<!---
+
 me-TimedIn/me-TimedIn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
