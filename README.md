@@ -1,5 +1,6 @@
 ### Hey, 
-#### thanks for coming by
+#### I'm on [Codeberg](https://2t0.de/cb), this is mostly just an archive and for contributing to other projects.
+<!--
 I just publish some projects of mine here.
 
 If you have any questions or found an error or bug in something please contact me at info@timedin.de.
